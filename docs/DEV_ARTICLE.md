@@ -2,8 +2,8 @@
 title: "LazyDesk AI: Transforming Messy Notes into Actionable Tasks with Local Open-Weight AI"
 published: false
 description: "A privacy-first, local-inference productivity assistant built for Hacktoberfest 2026 Week 3 (Slow and Steady). Powered by Llama 3.2, FastAPI, and React."
-tags: hacktoberfest, opensource, ai, webdev
-cover_image: https://raw.githubusercontent.com/your-username/lazydesk-ai/main/screenshots/hero_preview.png
+tags: hf26challenge, opensource, ai, productivity
+cover_image: https://raw.githubusercontent.com/Aachman-Yadav/LazyDesk_AI/main/screenshots/01_landing_hero.png
 ---
 
 ## 🐢 The Theme: Slow and Steady
@@ -203,5 +203,5 @@ The **"Slow and Steady"** path of open-source AI is about taking the time to bui
 
 LazyDesk AI shows that modern small language models running locally are not just viable—they are the superior choice for personal productivity.
 
-* Check out the [GitHub Repository](https://github.com/your-username/lazydesk-ai)
+* **GitHub Repository**: [https://github.com/Aachman-Yadav/LazyDesk_AI](https://github.com/Aachman-Yadav/LazyDesk_AI)
 * Star the project and contribute during Hacktoberfest!
